@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "WebApplicationWithSqlDatabase.sln",
+    "appService.defaultWebAppToDeploy": "None",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "WebApplicationWithSqlDatabase/bin/Release/net10.0/publish"
+}
